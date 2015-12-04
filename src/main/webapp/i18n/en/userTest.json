@@ -1,0 +1,22 @@
+{
+    "testClimberApp": {
+        "userTest" : {
+            "home": {
+                "title": "UserTests",
+                "createLabel": "Create a new UserTest",
+                "createOrEditLabel": "Create or edit a UserTest"
+            },
+            "created": "A new UserTest is created with identifier {{ param }}",
+            "updated": "A UserTest is updated with identifier {{ param }}",
+            "deleted": "A UserTest is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete UserTest {{ id }}?"
+            },
+            "detail": {
+                "title": "UserTest"
+            },
+            "name": "Name",
+            "hotel": "Hotel"
+        }
+    }
+}
